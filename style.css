@@ -122,7 +122,7 @@ body {
     align-items: center;
     justify-content: space-between;
     min-height: 100vh;
-    padding-top: 5rem;
+    padding-top: 1rem;
 }
 
 .hero-content {
@@ -188,13 +188,13 @@ body {
 
 /* Sections */
 .section {
-    padding: 2rem 0;
+    padding: 1.5rem 0;
 }
 
 .section-title {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     position: relative;
     display: inline-block;
 }
@@ -509,4 +509,5 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
